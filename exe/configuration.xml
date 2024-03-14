@@ -47,7 +47,7 @@
 		<Value name = "carbon_content">../input/gcamdata/xml/All/Ccoef.xml</Value>
 		<Value name = "carbon_storage">../input/gcamdata/xml/All/Cstorage.xml</Value>
         <Value name = "wind_update">../input/gcamdata/xml/All/onshore_wind.xml</Value>
-        <Value name = "Food	Processing">../input/gcamdata/xml/All/FoodProcessing.xml</Value>
+      
 
 		<Value name = "ag_base">../input/gcamdata/xml/All/ag_For_Past_bio_base_IRR_MGMT.xml</Value>
 		<Value name = "ag_cost">../input/gcamdata/xml/All/ag_cost_IRR_MGMT.xml</Value>
