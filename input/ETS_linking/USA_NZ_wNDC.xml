@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="USA">
+            <ghgpolicy name="CO2">
+                <market>USA</market>
+                <constraint year="2025">1211</constraint>
+                <constraint year="2030">800</constraint>
+                <constraint year="2035">600</constraint>
+                <constraint year="2040">400</constraint>
+                <constraint year="2045">200</constraint>
+                <constraint year="2050">0.01</constraint>
+                <constraint year="2055">0.01</constraint>
+                <constraint year="2060">0.01</constraint>
+                <constraint year="2065">0.01</constraint>
+                <constraint year="2070">0.01</constraint>
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>
+
+
+<!-- This emission constraint achieves the 2030 NDC target of of 50-52% reductions below 2005 levels, covering all sectors and all gases
+and 26-28% BELOW 2005 LEVELS IN 2025-->

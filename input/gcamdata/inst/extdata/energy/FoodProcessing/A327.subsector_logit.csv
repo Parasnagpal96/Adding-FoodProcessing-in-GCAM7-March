@@ -1,0 +1,8 @@
+# File: A327.subsector_logit.csv
+# Title: aluminum default subsector logit exponents
+# Units: Unitless
+# Column types: ccic
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+FoodProcessing,electricity,-6
+
