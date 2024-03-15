@@ -37,4 +37,4 @@ FoodProcessing_enuse,heat,heat,initial-future-year,40,,20,0.3,-0.5,6
 FoodProcessing_enuse,coal,coal,initial-future-year,40,,20,0.3,-0.5,6
 FoodProcessing_enuse,coal,coal cogen,initial-future-year,40,,20,0.3,-0.5,6
 FoodProcessing_enuse,coal,coal CCS,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing,electricity,electricity,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing_enuse,electricity,electricity,initial-future-year,40,,20,0.3,-0.5,6

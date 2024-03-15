@@ -9,4 +9,4 @@ FoodProcessing_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
 FoodProcessing_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
 FoodProcessing_enuse,heat,share-weight,final-calibration-year,end-year,,fixed
 FoodProcessing_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing,electricity,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed

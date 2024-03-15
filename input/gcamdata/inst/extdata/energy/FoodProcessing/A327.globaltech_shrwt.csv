@@ -17,4 +17,4 @@ FoodProcessing_enuse,heat,heat,1,1,1,1,1
 FoodProcessing_enuse,coal,coal,1,1,1,1,1
 FoodProcessing_enuse,coal,coal cogen,0,0,0,0,0
 FoodProcessing_enuse,coal,coal CCS,0,0,0,1,1
-FoodProcessing ,electricity,electricity,1,1,1,1,1
+FoodProcessing_enuse,electricity,electricity,1,1,1,1,1

@@ -17,4 +17,4 @@ FoodProcessing_enuse,biomass,biomass,non-energy,3,3,3,3
 FoodProcessing_enuse,biomass,biomass cogen,non-energy,4,4,4,4
 FoodProcessing_enuse,biomass,biomass CCS,non-energy,3.5,3.5,3.5,3.5
 FoodProcessing_enuse,heat,heat,non-energy,3,3,3,3
-FoodProcessing,electricity,electricity,non-energy,3,3,3,3
+FoodProcessing_enuse,electricity,electricity,non-energy,3,3,3,3
